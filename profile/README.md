@@ -29,6 +29,9 @@ We maintain a few apps:
 - [InternetTest](https://github.com/Leo-Corporation/InternetTest) - A simple internet utility for Windows.
 - [ColorPicker](https://github.com/Leo-Corporation/ColorPicker) - A modern color picking tool for developers.
 - [Datalya](https://github.com/Leo-Corporation/Datalya) - A modern and simple database creator/manager for Windows.
+- [Gavilya](https://github.com/Leo-Corporation/Gavilya) - A simple game launcher.
+
+*And more...*
 
 ## Our website
 We have a website available at [https://leocorporation.dev](https://leocorporation.dev).
