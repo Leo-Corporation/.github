@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://leocorporation.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="BannerD.svg">
-      <source media="(prefers-color-scheme: light)" srcset="Banner.svg">
-      <img alt="A isometric image representing all apps made by Léo Corporation." src="Banner.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Leo-Corporation/.github/raw/main/profile/BannerD.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Leo-Corporation/.github/raw/main/profile/Banner.svg">
+      <img alt="A isometric image representing all apps made by Léo Corporation." src="https://github.com/Leo-Corporation/.github/raw/main/profile/Banner.svg">
     </picture>
   </a>
 
