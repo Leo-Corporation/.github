@@ -1,7 +1,11 @@
 <br />
 <p align="center">
   <a href="https://leocorporation.dev">
-    <img src="https://leocorporation.dev/img/Logo.svg" alt="Logo" width="80" height="80">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="BannerD.svg">
+      <source media="(prefers-color-scheme: light)" srcset="Banner.svg">
+      <img alt="A isometric image representing all apps made by Léo Corporation." src="Banner.svg">
+    </picture>
   </a>
 
   <h1 align="center">Léo Corporation</h3>
