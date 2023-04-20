@@ -25,17 +25,21 @@
 </p>
 
 ## About us
+
 Léo Corporation creates and maintains applications. It's the home of our projects. Léo Corporation was created by [@Leo-Peyronnet](https://github.com/Leo-Peyronnet).
 
 ## Our projects and applications
+
 We maintain a few apps:
-- [Passliss](https://github.com/Leo-Corporation/Passliss) - A modern password generator for Windows.
-- [InternetTest](https://github.com/Leo-Corporation/InternetTest) - A simple internet utility for Windows.
-- [ColorPicker](https://github.com/Leo-Corporation/ColorPicker) - A modern color picking tool for developers.
+
+- [Passliss](https://github.com/Leo-Corporation/Passliss) - A web application that allows you to generate secure passwords, test the strength of exiting ones and more.
+- [InternetTest](https://github.com/Leo-Corporation/InternetTest) - A modern connection utility for Windows. It can locate IP addresses, send ping request, recover your WiFi passwords and more!
+- [ColorPicker](https://github.com/Leo-Corporation/ColorPicker) - An app that enables you to pick, create and convert colors, preview text colors, generate color palettes and gradients, and more.
 - [Datalya](https://github.com/Leo-Corporation/Datalya) - A modern and simple database creator/manager for Windows.
 - [Gavilya](https://github.com/Leo-Corporation/Gavilya) - A simple game launcher.
 
-*And more...*
+_And more..._
 
 ## Our website
+
 We have a website available at [https://leocorporation.dev](https://leocorporation.dev).
