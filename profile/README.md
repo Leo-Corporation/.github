@@ -26,7 +26,7 @@
 
 ## About us
 
-Léo Corporation creates and maintains applications. It's the home of our projects. Léo Corporation was created by [@Leo-Peyronnet](https://github.com/Leo-Peyronnet).
+Léo Corporation creates and maintains applications. It's the home of our projects. Léo Corporation was created by [@lpeyr](https://github.com/lpeyr).
 
 ## Our projects and applications
 
